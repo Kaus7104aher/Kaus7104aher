@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Samadhan Aher</h1>
-<h3 align="center">I’m a passionate full-stack developer specializing in the MERN stack, building scalable and user-friendly web applications with seamless API integration . Alongside web development, I have strong skills in Data Structures and Algorithms, which help me approach challenges with logical thinking and efficient problem-solving. I enjoy turning ideas into impactful solutions, from designing intuitive frontends to developing robust backends.</h3>
 
 - 🔭 I’m currently working on **CampusResolve**
 
