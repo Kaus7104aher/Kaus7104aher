@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Samadhan Aher</h1>
 
-- 🔭 I’m currently working on **CampusResolve**
+- 🔭 I’m currently working on **Learning New Technologies 🤧**
 
 - 🌱 I’m currently learning **Backend & Frontend Technologies**
 
